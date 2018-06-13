@@ -1,0 +1,9 @@
+body{
+  margin-top: 100px;
+  background: #333;
+  color: white;
+}
+
+input::after{
+  content: "&deg;"
+}
